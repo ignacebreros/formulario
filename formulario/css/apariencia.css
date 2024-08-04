@@ -16,3 +16,17 @@
     }
     .nav-link{font-family:Verdana, Geneva, Tahoma, sans-serif;
     }
+    footer{
+        background-color: blue;
+    }
+    .preguntaCuerpo{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        text-align: center;
+        margin:2rem;
+    }
+    .parrafo1{
+        font-size: xx-small;
+        margin-top:2rem;
+        text-align: start;
+       }
+    
