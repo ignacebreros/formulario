@@ -1,0 +1,18 @@
+
+
+
+*{margin:0;
+    padding: 0;
+    box-sizing:border-box;
+    }
+.col{font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    text-align: center;
+    padding:3rem ;}
+    .nav-item{
+        background-color: rgb(207, 207, 209);
+        border-radius:5px ;
+        margin:2rem;
+        font-size: small;
+    }
+    .nav-link{font-family:Verdana, Geneva, Tahoma, sans-serif;
+    }
